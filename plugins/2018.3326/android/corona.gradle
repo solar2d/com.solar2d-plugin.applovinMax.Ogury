@@ -1,0 +1,8 @@
+repositories {
+	jcenter()
+	mavenCentral()
+	maven { url "https://maven.ogury.co" }
+}
+dependencies {
+		implementation 'com.applovin.mediation:ogury-presage-adapter:5.0.10.1'
+}
