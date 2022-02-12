@@ -4,7 +4,7 @@ local metadata =
 	{
 		format = 'staticLibrary',
 		staticLibs = {  },
-		frameworks = { "AppLovinMediationOguryPresageAdapter", "OguryAds", "OMSDK_Oguryco" },
+		frameworks = { "AppLovinMediationOguryPresageAdapter", "OguryAds", "OMSDK_Oguryco", "OguryChoiceManager", "OgurySdk" },
 		frameworksOptional = {},
 	},
 }
