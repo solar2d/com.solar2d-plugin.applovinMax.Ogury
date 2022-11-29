@@ -1,8 +1,5 @@
 //
-//  RewardItem.h
-//  PresageSDK
-//
-//  Copyright © 2019 Ogury. All rights reserved.
+//  Copyright © 2020 Ogury Ltd. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

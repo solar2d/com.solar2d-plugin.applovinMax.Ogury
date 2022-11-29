@@ -1,4 +1,5 @@
 #import "OGARewardItem.h"
+#import <UIKit/UIKit.h>
 
 @class OguryAdsBanner;
 
@@ -69,5 +70,6 @@ typedef NS_ENUM(NSInteger, OguryAdsErrorType) {
 -(void)oguryAdsBannerAdClosed:(OguryAdsBanner*)bannerAds;
 -(void)oguryAdsBannerAdError:(OguryAdsErrorType)errorType forBanner:(OguryAdsBanner*)bannerAds;
 -(void)oguryAdsBannerAdOnAdImpression;
+-(UIViewController *)oguryAdsBannerAdPresentingViewController:(OguryAdsBanner*)bannerAds;
 @end
 
