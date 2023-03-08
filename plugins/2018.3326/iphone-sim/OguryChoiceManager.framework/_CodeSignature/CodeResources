@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/OGYConstants.h</key>
 		<data>
-		iyyxAsgCWkKYhXhkaXGyvLLytQE=
+		Tg46WlzHxLxq3NpmmCMloI1PZo8=
 		</data>
 		<key>Headers/OguryChoiceManager.h</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		QEzT1QD7CTKI8DsoFlqECtHWM6A=
+		B/6WhBhrmnaMhCE+aYIu/rMCLVc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>OGYConfig.xcconfig</key>
 		<data>
-		oK6aNpuvzHiLV5zkU1z4WM939EU=
+		iFIWadrRw2QjW3/luyeU/+5NiUo=
 		</data>
 		<key>PrivateHeaders/OGYInternal.h</key>
 		<data>
@@ -55,11 +55,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iyyxAsgCWkKYhXhkaXGyvLLytQE=
+			Tg46WlzHxLxq3NpmmCMloI1PZo8=
 			</data>
 			<key>hash2</key>
 			<data>
-			fQNA/FSvCk42HqZT3fhO5Zm6FrTD0MLIbAa802nuHDE=
+			JoEWcWqx7OCwjX17RHqK0fi7ps6fwnbLNmqHWscOvJ4=
 			</data>
 		</dict>
 		<key>Headers/OguryChoiceManager.h</key>
@@ -143,11 +143,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oK6aNpuvzHiLV5zkU1z4WM939EU=
+			iFIWadrRw2QjW3/luyeU/+5NiUo=
 			</data>
 			<key>hash2</key>
 			<data>
-			3jhosVvPWtxsfe5eISuDtb697EghMniGUV4MuQICk8k=
+			BtcQrqZa/2IBQx+FDTRt2RFmGCjBiGwbTduHMApOYRU=
 			</data>
 		</dict>
 		<key>PrivateHeaders/OGYInternal.h</key>

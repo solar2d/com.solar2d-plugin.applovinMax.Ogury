@@ -4,8 +4,7 @@
 
 #import <Foundation/Foundation.h>
 #import "OguryLogger.h"
-
-typedef NS_ENUM(NSInteger, OguryLogLevel);
+#import "OguryLogLevel.h"
 
 @class OguryLogMessage;
 

@@ -3,8 +3,7 @@
 //
 
 #import <Foundation/Foundation.h>
-
-typedef NS_ENUM(NSInteger, OguryLogLevel);
+#import "OguryLogLevel.h"
 
 @protocol OguryLogger;
 

@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		+aJ98NCzIr6qT6yuxomy3Qo6L6A=
+		VzCjyh9vGkDuYATozOotKTZ0j+8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>PrivateHeaders/OguryLog.h</key>
 		<data>
-		f6us0ROPLSyucCRnKdVKVQtDtUo=
+		0nPaYgkj5S0U91M/mfS6Tw2HTOs=
 		</data>
 		<key>PrivateHeaders/OguryLogFormatter.h</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>PrivateHeaders/OguryOSLogger.h</key>
 		<data>
-		OezlLbnTMUj4KyHR6YEG5NfF3wQ=
+		L7x5u/NHndR2Tvt7iyQnlMYzR1w=
 		</data>
 		<key>PrivateHeaders/OguryPersistentEventBus.h</key>
 		<data>
@@ -186,11 +186,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			f6us0ROPLSyucCRnKdVKVQtDtUo=
+			0nPaYgkj5S0U91M/mfS6Tw2HTOs=
 			</data>
 			<key>hash2</key>
 			<data>
-			mSts3mqsx8saa3NuyfmcKoalcg+s5q2XXDscemXzZ+s=
+			IQIbXQT+CdmruhkS+Q78dsUkP6wtdmpkZauVK0PRCl0=
 			</data>
 		</dict>
 		<key>PrivateHeaders/OguryLogFormatter.h</key>
@@ -263,11 +263,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OezlLbnTMUj4KyHR6YEG5NfF3wQ=
+			L7x5u/NHndR2Tvt7iyQnlMYzR1w=
 			</data>
 			<key>hash2</key>
 			<data>
-			qDgTSaAmpWfzwgKoOt97hkKoyHj1vjhsdyAk49MqHrw=
+			F5ECZI77P7+2GeYcCt66LhDLMTV1Bu0j56us/dLyiy8=
 			</data>
 		</dict>
 		<key>PrivateHeaders/OguryPersistentEventBus.h</key>
