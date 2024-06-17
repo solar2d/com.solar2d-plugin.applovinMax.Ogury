@@ -6,6 +6,7 @@
 
 #import <OguryChoiceManager/OguryChoiceManager.h>
 #import <OguryCore/OguryPersistentEventBus.h>
+#import <OguryCore/OguryLogLevel.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
@@ -15,7 +16,9 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (instancetype)initWithChoiceManager:(OguryChoiceManager *)choiceManager;
 
-- (void)startWithAssetKey:(NSString *)assetKey eventBus:(OguryPersistentEventBus *)eventBus;
+- (void)setLogLevel:(OguryLogLevel)logLevel;
+
+- (void)startWithAssetKey:(NSString *)assetKey persistentEventBus:(OguryPersistentEventBus *)persistentEventBus broadcastEventBus:(OguryEventBus *)broadcastEventBus;
 
 - (NSString *)getVersion;
 

@@ -10,6 +10,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
+__attribute__((deprecated("OguryChoiceManagerTCFV2 is deprecated, and Ogury no longer provides support to manage this consent type. \nPlease use a Consent Management Platform (CMP) that is compatible with TCFv2 to manage and generate user consents. \nYou can then use OguryChoiceManagerExternal().setConsentForTCFV2WithAssetKey(...) to register yout TCFV2 consent")))
 @interface OguryChoiceManagerTCFV2 : NSObject
 
 /*!

@@ -4,6 +4,8 @@
 
 #import <Foundation/Foundation.h>
 
+typedef NS_ENUM(NSInteger, OguryLogLevel);
+
 typedef enum : NSUInteger {
     OGCSDKTypeNative = 0,
     OGCSDKTypeUnity,
@@ -18,8 +20,10 @@ NS_ASSUME_NONNULL_BEGIN
 @interface OGCInternal : NSObject
 
 + (instancetype)shared;
+- (void)setLogLevel:(OguryLogLevel)logLevel;
 - (NSString *)getVersion;
 - (NSString *)getAdIdentifier;
+- (NSString *)getVendorIdentifier;
 - (NSString *)getInstanceToken;
 - (NSString *)getConsentToken;
 - (OGCSDKType)getFrameworkType;

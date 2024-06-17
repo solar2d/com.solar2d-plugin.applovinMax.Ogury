@@ -10,11 +10,11 @@
 		</data>
 		<key>Headers/OguryChoiceManager.h</key>
 		<data>
-		LEgYo2SwdK45zafzCWKd/6fFhxI=
+		kUZ9n5py4snqvD1xvDaJtKZZ83M=
 		</data>
 		<key>Headers/OguryChoiceManagerCCPAV1.h</key>
 		<data>
-		ii9bDv/tfSMgEFeG93Vy3iqpYFk=
+		E6fvaZ1L++aABdruGUbqEnYc9ew=
 		</data>
 		<key>Headers/OguryChoiceManagerConfig.h</key>
 		<data>
@@ -26,27 +26,31 @@
 		</data>
 		<key>Headers/OguryChoiceManagerExternal.h</key>
 		<data>
-		Pc+n3lFdqM1FFr5R+YriRuDMvB4=
+		ypvr66H5RaD1MThP2KzUj7quvAM=
 		</data>
 		<key>Headers/OguryChoiceManagerTCFV2.h</key>
 		<data>
-		NDXcEwq5wLcIRXKg5+QeCz1299g=
+		RvQ8XYUNKfpAh0lb6+KFOnDhtdA=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		B/6WhBhrmnaMhCE+aYIu/rMCLVc=
+		ZX1l+vW+mFCwPp7qYuuErX/X8Ls=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		1+YjPk/jjaI8jZdeS1OVy5r1uns=
+		JGUtg3fGrSDFOzIkmrjLybMHAb8=
 		</data>
 		<key>OGYConfig.xcconfig</key>
 		<data>
-		iFIWadrRw2QjW3/luyeU/+5NiUo=
+		OcyO7W9cKSFI1lYJPjKpIipYpio=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		S1jxCKHul5NZWKEyJyzOxGVz4uQ=
 		</data>
 		<key>PrivateHeaders/OGYInternal.h</key>
 		<data>
-		+nRJVQygUgHHHkQGIim07B7Imis=
+		vXfoqDToOYnpHEUIW++jC7xVBB8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -66,22 +70,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LEgYo2SwdK45zafzCWKd/6fFhxI=
+			kUZ9n5py4snqvD1xvDaJtKZZ83M=
 			</data>
 			<key>hash2</key>
 			<data>
-			thZACNSXeSNnkRZqvNrD/68F47Cl79Bhsa6sAgscqOE=
+			jpxgPcy7JfXrrv9px7AtMtiZfbEJCZVNq8Z/04zw5IQ=
 			</data>
 		</dict>
 		<key>Headers/OguryChoiceManagerCCPAV1.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ii9bDv/tfSMgEFeG93Vy3iqpYFk=
+			E6fvaZ1L++aABdruGUbqEnYc9ew=
 			</data>
 			<key>hash2</key>
 			<data>
-			kl9ZJXKc9KRHKVnt6kWF1Iv143RD7pCH5rfhi3jfbDk=
+			XsyfowT6IaSeJD0knhn5C8MtRJEHp27RxyzxqupnpXA=
 			</data>
 		</dict>
 		<key>Headers/OguryChoiceManagerConfig.h</key>
@@ -110,55 +114,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Pc+n3lFdqM1FFr5R+YriRuDMvB4=
+			ypvr66H5RaD1MThP2KzUj7quvAM=
 			</data>
 			<key>hash2</key>
 			<data>
-			cVChlA9FmR79caXDMPu4yPup35HFbWRaXY4IPCq5waU=
+			3g6oTlYJMuiyJxk1TteWbexBtu8kZQN+LUaOB4CGcZY=
 			</data>
 		</dict>
 		<key>Headers/OguryChoiceManagerTCFV2.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NDXcEwq5wLcIRXKg5+QeCz1299g=
+			RvQ8XYUNKfpAh0lb6+KFOnDhtdA=
 			</data>
 			<key>hash2</key>
 			<data>
-			uHZ78YpM6ExeHbqW7LA87flWPC5EhM9yVRed/MQHP8s=
+			EAPxuMg3erbx8R44rL7XE2/KPzS3Mcz6cJky+FI9s2M=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1+YjPk/jjaI8jZdeS1OVy5r1uns=
+			JGUtg3fGrSDFOzIkmrjLybMHAb8=
 			</data>
 			<key>hash2</key>
 			<data>
-			J3xCOWgJZhBtHJfptFF1mhdQCRlMuQ1p8aQIVuiCw9I=
+			Q7ab+crn92C9CbNb1UM52P+oW/lQ3AzkFe/sDPRbeVE=
 			</data>
 		</dict>
 		<key>OGYConfig.xcconfig</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iFIWadrRw2QjW3/luyeU/+5NiUo=
+			OcyO7W9cKSFI1lYJPjKpIipYpio=
 			</data>
 			<key>hash2</key>
 			<data>
-			BtcQrqZa/2IBQx+FDTRt2RFmGCjBiGwbTduHMApOYRU=
+			uDa+M9H+SwRJPOTzAyOyYAKv3HHr0FzM0HJYwRodGZw=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			S1jxCKHul5NZWKEyJyzOxGVz4uQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			QgfNmYo6ATJo0KgrfDmoabJJcV8GCPdTDonU2SN7ae0=
 			</data>
 		</dict>
 		<key>PrivateHeaders/OGYInternal.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+nRJVQygUgHHHkQGIim07B7Imis=
+			vXfoqDToOYnpHEUIW++jC7xVBB8=
 			</data>
 			<key>hash2</key>
 			<data>
-			lBPcK1gV9PPgzdP6JPAW9fOnGgKWsS8FXfKo13OKY38=
+			OUh4275nF0HOs77LUN9VoLY+kWZ3yPD/SZD9CvmaHtI=
 			</data>
 		</dict>
 	</dict>

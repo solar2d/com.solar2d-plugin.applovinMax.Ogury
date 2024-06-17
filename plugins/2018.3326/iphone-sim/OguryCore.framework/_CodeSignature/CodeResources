@@ -18,15 +18,35 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		VzCjyh9vGkDuYATozOotKTZ0j+8=
+		73M/MWiwzDu8EcXgmqE/OOdIdfo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		GCl/9uXIoMokXjBqnEp2YodFA6A=
+		GnkmFcfP+WCqBkKk3O//FWsCWhY=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		QClB6u9VM0MR9y0HadRGkHf9BPk=
 		</data>
 		<key>PrivateHeaders/OGCInternal.h</key>
 		<data>
-		Qm8mZmquexAXgwjPPB04LwvWdzw=
+		iZR0yQXiYyxHZ0ofF1pjuTjG9Jo=
+		</data>
+		<key>PrivateHeaders/OGCLog.h</key>
+		<data>
+		rsJXFdK7s9HcrCWOEbMRh0fGs/0=
+		</data>
+		<key>PrivateHeaders/OGCLogFormatter.h</key>
+		<data>
+		65jiEwjMSP7Fhtq/syJ0dKPXrJ4=
+		</data>
+		<key>PrivateHeaders/OGCSetLogLevelNotificationManager.h</key>
+		<data>
+		DNNbT1NBxztJgk9ojdmqrBdbcDU=
+		</data>
+		<key>PrivateHeaders/OGCURLRequestLogMessage.h</key>
+		<data>
+		gOqlWnQYXojNEKE/+kWkW4sTGsI=
 		</data>
 		<key>PrivateHeaders/OguryAbstractLogMessage.h</key>
 		<data>
@@ -46,7 +66,7 @@
 		</data>
 		<key>PrivateHeaders/OguryLog.h</key>
 		<data>
-		0nPaYgkj5S0U91M/mfS6Tw2HTOs=
+		UOGGUhvDl3FnhiKL3GvylJ1o8hc=
 		</data>
 		<key>PrivateHeaders/OguryLogFormatter.h</key>
 		<data>
@@ -62,11 +82,15 @@
 		</data>
 		<key>PrivateHeaders/OguryNetworkClient.h</key>
 		<data>
-		YAw5uA2IMhhLBHGFQ3iFf6Z7jO8=
+		AMj4rJfcB5JoAMlotINGrKQhYd4=
 		</data>
 		<key>PrivateHeaders/OguryNetworkClientError.h</key>
 		<data>
 		onDf76xP0or+4py8ooId5OxKHP0=
+		</data>
+		<key>PrivateHeaders/OguryNetworkClientPrivateProperties.h</key>
+		<data>
+		FkVL0AyOIz363Cjyj8OKsE8GsWM=
 		</data>
 		<key>PrivateHeaders/OguryNetworkRequestBuilder.h</key>
 		<data>
@@ -74,11 +98,15 @@
 		</data>
 		<key>PrivateHeaders/OguryOSLogger.h</key>
 		<data>
-		L7x5u/NHndR2Tvt7iyQnlMYzR1w=
+		OezlLbnTMUj4KyHR6YEG5NfF3wQ=
 		</data>
 		<key>PrivateHeaders/OguryPersistentEventBus.h</key>
 		<data>
 		az9n1mXnJVC9XRBAmosy0tcBG4Y=
+		</data>
+		<key>PrivateHeaders/OguryStringFormattable.h</key>
+		<data>
+		uDNdafOzVr3T+biNRXPImF2Se+M=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -120,22 +148,77 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GCl/9uXIoMokXjBqnEp2YodFA6A=
+			GnkmFcfP+WCqBkKk3O//FWsCWhY=
 			</data>
 			<key>hash2</key>
 			<data>
-			aM/TWsPAMJsmfmYVrwtL6gWHe4YQodrH22WIPMpp2hE=
+			znjAUVGtAP2F+gfodbK05tyqdFi/7lAAvxGwELkHyFw=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QClB6u9VM0MR9y0HadRGkHf9BPk=
+			</data>
+			<key>hash2</key>
+			<data>
+			sgGEqH5jkvKT0kHIiIsLqxd018ziWGFl6H+OBwlIoyo=
 			</data>
 		</dict>
 		<key>PrivateHeaders/OGCInternal.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Qm8mZmquexAXgwjPPB04LwvWdzw=
+			iZR0yQXiYyxHZ0ofF1pjuTjG9Jo=
 			</data>
 			<key>hash2</key>
 			<data>
-			DC1EwCTj8IUa8HPgExbB0dz94BkXGTmADuwSOZ9UsdY=
+			zdRTrVn6MdZb+TLXNKWqszkFYp6s/7kjU86R00S7tfI=
+			</data>
+		</dict>
+		<key>PrivateHeaders/OGCLog.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rsJXFdK7s9HcrCWOEbMRh0fGs/0=
+			</data>
+			<key>hash2</key>
+			<data>
+			SG/115IeeQuGWiXJ0CMlz/70pRguGQFSCMMpIOchFUs=
+			</data>
+		</dict>
+		<key>PrivateHeaders/OGCLogFormatter.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			65jiEwjMSP7Fhtq/syJ0dKPXrJ4=
+			</data>
+			<key>hash2</key>
+			<data>
+			WqyiKnwLyPX2utzyW3g1pUY/od7M/Toi5Fyt/cOg72s=
+			</data>
+		</dict>
+		<key>PrivateHeaders/OGCSetLogLevelNotificationManager.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DNNbT1NBxztJgk9ojdmqrBdbcDU=
+			</data>
+			<key>hash2</key>
+			<data>
+			OyGVtkXIv2H3HdlyYQs6sCc/4aGMQ9j2BGCR8O9S69w=
+			</data>
+		</dict>
+		<key>PrivateHeaders/OGCURLRequestLogMessage.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gOqlWnQYXojNEKE/+kWkW4sTGsI=
+			</data>
+			<key>hash2</key>
+			<data>
+			Lc+gH4iznpM89Fh9dyjOfDHMPctUO8t3HUckexTOvgQ=
 			</data>
 		</dict>
 		<key>PrivateHeaders/OguryAbstractLogMessage.h</key>
@@ -186,11 +269,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0nPaYgkj5S0U91M/mfS6Tw2HTOs=
+			UOGGUhvDl3FnhiKL3GvylJ1o8hc=
 			</data>
 			<key>hash2</key>
 			<data>
-			IQIbXQT+CdmruhkS+Q78dsUkP6wtdmpkZauVK0PRCl0=
+			UiPnykM5ffB7rmsuUSDtmfAqLJbRU/VQosLIiYshrSo=
 			</data>
 		</dict>
 		<key>PrivateHeaders/OguryLogFormatter.h</key>
@@ -230,11 +313,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YAw5uA2IMhhLBHGFQ3iFf6Z7jO8=
+			AMj4rJfcB5JoAMlotINGrKQhYd4=
 			</data>
 			<key>hash2</key>
 			<data>
-			m7jSsR3Ado8Y2lxx6ocJBL2A5hsj+pRcE4FA4ssfs/s=
+			9aWJE/sa9ma60knmdeTluut+thpDjnElSO6g4M0mkt0=
 			</data>
 		</dict>
 		<key>PrivateHeaders/OguryNetworkClientError.h</key>
@@ -246,6 +329,17 @@
 			<key>hash2</key>
 			<data>
 			K9mKWVD99fvlmkoGKoiuk8l9cOomC3g5KRPo3VDPv0k=
+			</data>
+		</dict>
+		<key>PrivateHeaders/OguryNetworkClientPrivateProperties.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FkVL0AyOIz363Cjyj8OKsE8GsWM=
+			</data>
+			<key>hash2</key>
+			<data>
+			h+U0vS9AKilJypAPFYXOTHRiKTG57ROaFphJXxmLT78=
 			</data>
 		</dict>
 		<key>PrivateHeaders/OguryNetworkRequestBuilder.h</key>
@@ -263,11 +357,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			L7x5u/NHndR2Tvt7iyQnlMYzR1w=
+			OezlLbnTMUj4KyHR6YEG5NfF3wQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			F5ECZI77P7+2GeYcCt66LhDLMTV1Bu0j56us/dLyiy8=
+			qDgTSaAmpWfzwgKoOt97hkKoyHj1vjhsdyAk49MqHrw=
 			</data>
 		</dict>
 		<key>PrivateHeaders/OguryPersistentEventBus.h</key>
@@ -279,6 +373,17 @@
 			<key>hash2</key>
 			<data>
 			ykmBN2fwkNWkCY0rtflLCaQaV7ep+B3uCLn6yXBS3RU=
+			</data>
+		</dict>
+		<key>PrivateHeaders/OguryStringFormattable.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uDNdafOzVr3T+biNRXPImF2Se+M=
+			</data>
+			<key>hash2</key>
+			<data>
+			33YQDxP6XL48Sxv3WIqpYX9n2ivJKHzFLAYF+EXeCls=
 			</data>
 		</dict>
 	</dict>

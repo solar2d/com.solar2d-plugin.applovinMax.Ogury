@@ -16,6 +16,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (void)performRequest:(NSURLRequest *)request completionHandler:(void(^)(NSData * _Nullable result, NSError * _Nullable error))completionHandler;
 
+- (void)performRequest:(NSURLRequest *)request completionHandlerWithUrlResponse:(void(^)(NSData * _Nullable data, NSURLResponse * _Nullable response, NSError * _Nullable error))completionHandler;
+
 @end
 
 NS_ASSUME_NONNULL_END

@@ -21,6 +21,8 @@ NS_ASSUME_NONNULL_BEGIN
 * @brief Ogury Choice Manager handles user consent collection and storage for all your vendors, with a simple integration, ensuring compliance with the GDPR regulation. Your users are shown a single consent notice giving them the choice of the data they want to share, if any.
 * @discussion For more informations checkout : https://docs.ogury.co/
 */
+
+__attribute__((deprecated("OguryChoiceManager is deprecated, and Ogury no longer provides support to manage this consent type. \nPlease use a Consent Management Platform (CMP) that is compatible with TCFv2 to manage and generate user consents. \nYou can then use OguryChoiceManagerExternal().setConsentForTCFV2WithAssetKey(...) to register yout TCFV2 consent")))
 @interface OguryChoiceManager : NSObject
 /*!
  @brief Shared instance that has to be used to call all the methods from Ogury Choice Manager
@@ -52,7 +54,8 @@ NS_ASSUME_NONNULL_BEGIN
 * @param config an OguryChoiceManagerConfig object, needed to pass versions of frameworks that should be used in SDK.
 * @discussion This method must be called before any other Choice Manager method. We recommend to call setup in AppDelgeate class, function didFinishLaunchingWithOptions before starting any UIViewController.
 */
-- (void)setupWithAssetKey:(NSString *)assetKey andConfig:(OguryChoiceManagerConfig *)config __deprecated_msg("Use Ogury.shared().start() instead. Call OguryChoiceManager.updateConfig() if the provided config is not OguryChoiceManagerConfig.defaultConfiguration().");
+- (void)setupWithAssetKey:(NSString *)assetKey andConfig:(OguryChoiceManagerConfig *)config 
+__deprecated_msg("Use Ogury.shared().start() instead. Call OguryChoiceManager.updateConfig() if the provided config is not OguryChoiceManagerConfig.defaultConfiguration().");
 
 /*!
 * @brief Update the current OguryChoiceManagerConfig

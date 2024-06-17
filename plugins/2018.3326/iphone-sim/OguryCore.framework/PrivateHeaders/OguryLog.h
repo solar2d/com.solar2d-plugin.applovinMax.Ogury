@@ -3,7 +3,8 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "OguryLogLevel.h"
+
+typedef NS_ENUM(NSInteger, OguryLogLevel);
 
 @protocol OguryLogger;
 
@@ -12,8 +13,6 @@ NS_ASSUME_NONNULL_BEGIN
 @interface OguryLog : NSObject
 
 #pragma mark - Properties
-
-@property (class, nonatomic, strong, readonly) OguryLog *sharedInstance;
 
 @property (nonatomic, strong, readonly) NSMutableArray<id<OguryLogger>> *loggers;
 
