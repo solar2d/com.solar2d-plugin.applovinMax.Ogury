@@ -4,55 +4,56 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/Ogury.h</key>
+		<key>Headers/ALOguryPresageMediationAdapter.h</key>
 		<data>
-		iu6HQohGdEOo5VeSw/x6cBKcFLo=
+		HJOeT2L6K3+y3CrujYz2chrI22c=
 		</data>
-		<key>Headers/OguryStartErrorCode.h</key>
+		<key>Headers/AppLovinMediationOguryPresageAdapter.h</key>
 		<data>
-		EjixCAQ1jn27be4EyHs+LSRM6EU=
+		ceG6uFaFx0ugXVUGIbBoGIEbl78=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		2bBx5c+hz3764wxxggaRfanoZ+Y=
+		w9DsyCLRQ9WMt9fFZaKzgkdIYyw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		VxP4o5gGsfwSiyYtuHR8r/Kav+c=
-		</data>
-		<key>PrivacyInfo.xcprivacy</key>
-		<data>
-		QClB6u9VM0MR9y0HadRGkHf9BPk=
+		xaFC1EEjYvIM/46i2GJaeIRYS6c=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/Ogury.h</key>
+		<key>Headers/ALOguryPresageMediationAdapter.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			HJOeT2L6K3+y3CrujYz2chrI22c=
+			</data>
 			<key>hash2</key>
 			<data>
-			oo0lzw+DEwhBFZBxY/iHCKVW26qzhm2vjf29GMrc4yI=
+			ntiYJYGVHOKcj6WBQ+wtZzsaKUFOeKdpdgh9DyT/GfQ=
 			</data>
 		</dict>
-		<key>Headers/OguryStartErrorCode.h</key>
+		<key>Headers/AppLovinMediationOguryPresageAdapter.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			ceG6uFaFx0ugXVUGIbBoGIEbl78=
+			</data>
 			<key>hash2</key>
 			<data>
-			ixStaLmHkg9/acr905N0S4s163pp7MDZrBMB+rlTELc=
+			W/fLdSqjmJ2K50jl78si5ifdSU5iAKWPBESdkOReDm0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash2</key>
+			<key>hash</key>
 			<data>
-			21nmG79Tk3kmNKhvbNtGiaMrrbnUMQN9WIqm0wIucFs=
+			xaFC1EEjYvIM/46i2GJaeIRYS6c=
 			</data>
-		</dict>
-		<key>PrivacyInfo.xcprivacy</key>
-		<dict>
 			<key>hash2</key>
 			<data>
-			sgGEqH5jkvKT0kHIiIsLqxd018ziWGFl6H+OBwlIoyo=
+			1I0CST+1i59NtdTuPHIs/uWBR2gCcMvnEVoSalKgZuM=
 			</data>
 		</dict>
 	</dict>

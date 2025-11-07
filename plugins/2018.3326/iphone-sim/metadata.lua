@@ -3,8 +3,8 @@ local metadata =
 	plugin =
 	{
 		format = 'staticLibrary',
-		staticLibs = {  "OguryPresageAdapter", "objc", "z", "c++" },
-		frameworks = { "OMSDK_Ogury", "OgurySdk", "OguryCore", "OguryAds", "OguryChoiceManager" , "AdSupport", "SystemConfiguration", "CoreTelephony" },
+		staticLibs = {  "objc", "z", "c++" },
+		frameworks = {"AppLovinMediationOguryPresageAdapter" , "OgurySdk" , "AdSupport", "SystemConfiguration", "CoreTelephony" },
 		frameworksOptional = {},
 		usesSwift = true,
 	},
